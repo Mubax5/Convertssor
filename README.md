@@ -1,4 +1,4 @@
-# Converstsoor
+# Convertssor
 
 **Convertssor** adalah aplikasi desktop berbasis **Python + CustomTkinter** untuk melakukan **convert, kompresi, resize, dan optimasi file gambar serta video secara massal**.
 
