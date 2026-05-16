@@ -1,0 +1,3 @@
+customtkinter
+pillow
+pillow-avif-plugin
